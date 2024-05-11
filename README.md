@@ -1,2 +1,8 @@
 # Estudo-Funcoes-C
-estudo e exercicios sobre funções usando C
+### O que são funções e para que servem
+
+##
+
+### Aplicação real
+
+##
